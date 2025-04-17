@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shraddhajha06/HouseMarketplace/static/css/main.41897bd7.css",
+    "main.js": "/shraddhajha06/HouseMarketplace/static/js/main.2410c43b.js",
+    "static/js/787.0d37754f.chunk.js": "/shraddhajha06/HouseMarketplace/static/js/787.0d37754f.chunk.js",
+    "static/media/offer-bg.jpg": "/shraddhajha06/HouseMarketplace/static/media/offer-bg.978fd914ad7cfb9c7c3c.jpg",
+    "index.html": "/shraddhajha06/HouseMarketplace/index.html",
+    "main.41897bd7.css.map": "/shraddhajha06/HouseMarketplace/static/css/main.41897bd7.css.map",
+    "main.2410c43b.js.map": "/shraddhajha06/HouseMarketplace/static/js/main.2410c43b.js.map",
+    "787.0d37754f.chunk.js.map": "/shraddhajha06/HouseMarketplace/static/js/787.0d37754f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41897bd7.css",
+    "static/js/main.2410c43b.js"
+  ]
+}
